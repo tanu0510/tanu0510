@@ -1,9 +1,8 @@
-Name     : Shanti Priya
+Name     : Tanu Singh
 Degree   : B.Tech — Computer Science Engineering (AIML)
-Uni      : Galgotias University (CGPA: 8.3 / 10)
+Uni      : Galgotias University (CGPA: 8 / 10)
 Location : Greater Noida, Uttar Pradesh 🇮🇳
 Focus    : Java · Spring Boot · AI/ML · Full Stack Dev
-DSA      : 400+ problems on LeetCode & GFG
 Status   : Open to Internships & Collaborations
 
 🔭 Currently building RecruitAi — an AI-powered campus recruitment platform
