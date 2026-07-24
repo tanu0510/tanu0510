@@ -15,13 +15,15 @@
 - 🚀 Solved **100+ LeetCode Problems**
 - 📊 Interested in Data Analytics, Software Development & AI
 - 🎯 Goal: Crack Product-Based Company Placements
+- ![Uploading image.png…]()
+
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/tanu-singh-3548343b1/">
+<a href="https://www.linkedin.com/in/tanu-singh-3548343b1/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
