@@ -79,11 +79,11 @@ Status   : Open to Internships & Collaborations
 
 **Tech:** `Java` `Spring Boot` `MySQL` `JWT` `HTML` `Render` `CSS` `Javascript`
 
-✅ Secure JWT authentication with role-based access control (Student, Faculty, Admin)
-✅ Intelligent route recommendation for classrooms, labs, libraries, hostels, and offices
-✅ Search and navigation system with real-time campus location management
-✅ Analytics dashboard for monitoring user activity and campus resource usage
-✅ Cloud deployment on Render with environment-based configuration
+✅ Secure JWT authentication with role-based access control (Student, Faculty, Admin).
+✅ Intelligent route recommendation for classrooms, labs, libraries, hostels, and offices.
+✅ Search and navigation system with real-time campus location management.
+✅ Analytics dashboard for monitoring user activity and campus resource usage.
+✅ Cloud deployment on Render with environment-based configuration.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white)]
 [![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)]
