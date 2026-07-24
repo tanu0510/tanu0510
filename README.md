@@ -81,8 +81,11 @@ Status   : Open to Internships & Collaborations
 
 ✅ Secure JWT authentication with role-based access control (Student, Faculty, Admin)  
 ✅ Intelligent route recommendation for classrooms, labs, libraries, hostels, and offices
-✅ Search and navigation system with real-time campus location management 
+
+✅ Search and navigation system with real-time campus location management
+
 ✅ Analytics dashboard for monitoring user activity and campus resource usage
+
 ✅ Cloud deployment on Render with environment-based configuration  
 
 
