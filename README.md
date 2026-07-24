@@ -122,7 +122,7 @@ Status   : Open to Internships & Collaborations
 
 <div align="center">
 
-![Shanti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanu0510&show_icons=true&theme=tokyonight&hide_border=true)
+![Tanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanu0510&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanu0510&layout=compact&theme=tokyonight&hide_border=true)
 
