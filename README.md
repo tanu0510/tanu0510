@@ -16,7 +16,7 @@ Name     : Tanu Singh
 Degree   : B.Tech — Computer Science Engineering (AIML)
 Uni      : Galgotias University (CGPA: 8.01 / 10)
 Location : Greater Noida, Uttar Pradesh 🇮🇳
-Focus    : Java · Spring Boot · AI/ML · Full Stack Dev
+Focus    : Java · Spring Boot · AI/ML · Full Stack Dev · Data Analysis
 DSA      : 100+ problems on LeetCode 
 Status   : Open to Internships & Collaborations
 ```
@@ -24,6 +24,7 @@ Status   : Open to Internships & Collaborations
 - 🔭 Currently building *SmartCampus AI* — an AI-powered Campus Navigation platform
 - 🌱 Learning **Spring Boot, System Design & Advanced DSA**
 - 🤖 Interned as an **AI-ML Virtual Intern** (Google for Developers × EduSkills)
+- 🤖 Interned as an **Data Analyst** (GUVI × HCL Tech)
 - 💼 Certified by **GUVI & NPTEL**
 - ⚡ Fun fact: I turn complex placement workflows into clean, scalable APIs ☕
 
