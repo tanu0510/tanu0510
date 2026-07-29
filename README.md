@@ -74,10 +74,10 @@ Status   : Open to Internships & Collaborations
 <tr>
 <td width="100%" valign="top">
 
-### 🎯SmartCampus AI — AI-Powered Campus Navigation Platform
+### 🎯vision-based-smart-campus-navigation 
 >Full-stack smart campus navigation platform enabling students, faculty, and visitors to discover campus locations through AI-assisted route planning.
 
-**Tech:** `Java` `Spring Boot` `MySQL` `JWT` `HTML` `Render` `CSS` `Javascript`
+**Tech:** `Java` `Spring Boot` `MySQL` `JWT` `HTML` `Render` `CSS` `Javascript` `Python` `Tenserflow` `PYTorch` `AI` `Pandas`
 
 ✅ Secure JWT authentication with role-based access control (Student, Faculty, Admin)  
 ✅ Intelligent route recommendation for classrooms, labs, libraries, hostels, and offices   
