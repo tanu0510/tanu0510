@@ -86,8 +86,8 @@ Status   : Open to Internships & Collaborations
 ✅ Cloud deployment on Render with environment-based configuration          
 
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white)]
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)(https://github.com/tanu0510/vision-based-smart-campus-navigation)]
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://vision-campus-frontend-tanu.onrender.com)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)]()
 
 </td>
 </tr>
